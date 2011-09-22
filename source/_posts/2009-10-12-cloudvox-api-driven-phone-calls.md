@@ -1,7 +1,7 @@
 ---
 title: Cloudvox - API-driven phone calls
 date: 2009-10-12 21:37:01 +11:00
-url: http://cloudvox.com/
+link: http://cloudvox.com/
 tags: cloudvox phone api
 layout: link
 ---

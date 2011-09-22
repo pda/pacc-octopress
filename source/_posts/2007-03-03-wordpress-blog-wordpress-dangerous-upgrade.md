@@ -1,7 +1,7 @@
 ---
 title: "WordPress \xE2\x80\xBA Blog \xC2\xBB WordPress 2.1.1 dangerous, Upgrade to 2.1.2"
 date: 2007-03-03 17:30:56 +11:00
-url: http://wordpress.org/development/2007/03/upgrade-212/
+link: http://wordpress.org/development/2007/03/upgrade-212/
 tags: wordpress security exploit
 layout: link
 ---

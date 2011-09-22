@@ -1,7 +1,7 @@
 ---
 title: Nmap 5.00 Release Notes
 date: 2009-07-17 20:40:17 +10:00
-url: http://nmap.org/5/
+link: http://nmap.org/5/
 tags: nmap security network ncat ndiff zenmap
 layout: link
 ---

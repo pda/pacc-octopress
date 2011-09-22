@@ -1,7 +1,7 @@
 ---
 title: 35 Designers x 5 Questions | Smashing Magazine
 date: 2007-04-23 17:44:23 +10:00
-url: http://www.smashingmagazine.com/2007/04/20/35-designers-x-5-questions/
+link: http://www.smashingmagazine.com/2007/04/20/35-designers-x-5-questions/
 tags: design css web
 layout: link
 ---

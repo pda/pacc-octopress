@@ -1,7 +1,7 @@
 ---
 title: "joshua's blog: lessons learned: apache etags"
 date: 2007-02-08 13:59:57 +11:00
-url: http://joshua.schachter.org/2006/11/apache-etags.html
+link: http://joshua.schachter.org/2006/11/apache-etags.html
 tags: apache http optimization performance etag scalability
 layout: link
 ---

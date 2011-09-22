@@ -1,7 +1,7 @@
 ---
 title: ReMate - TextMate Plugin
 date: 2008-12-22 13:02:46 +11:00
-url: http://ciaranwal.sh/remate/
+link: http://ciaranwal.sh/remate/
 tags: plugin textmate remate
 layout: link
 ---

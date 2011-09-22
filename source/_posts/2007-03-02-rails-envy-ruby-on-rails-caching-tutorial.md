@@ -1,7 +1,7 @@
 ---
 title: "Rails Envy: Ruby on Rails Caching Tutorial"
 date: 2007-03-02 11:51:10 +11:00
-url: http://www.railsenvy.com/2007/2/28/rails-caching-tutorial
+link: http://www.railsenvy.com/2007/2/28/rails-caching-tutorial
 tags: rails performance tutorial cache
 layout: link
 ---

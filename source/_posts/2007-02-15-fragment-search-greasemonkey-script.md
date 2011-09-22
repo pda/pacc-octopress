@@ -1,7 +1,7 @@
 ---
 title: Fragment Search - Greasemonkey script
 date: 2007-02-15 10:38:32 +11:00
-url: http://www.gerv.net/software/fragment-search/
+link: http://www.gerv.net/software/fragment-search/
 tags: greasemonkey firefox fragmentsearch userscript
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: "phobos: Project Phobos"
 date: 2007-03-30 14:07:25 +10:00
-url: https://phobos.dev.java.net/
+link: https://phobos.dev.java.net/
 tags: java framework javascript phobos
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: Moonlight - Mono
 date: 2007-06-18 12:13:58 +10:00
-url: http://www.mono-project.com/Moonlight
+link: http://www.mono-project.com/Moonlight
 tags: moonlight mono silverlight opensource
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: One Click Feed Validation for Firefox
 date: 2009-05-07 09:27:44 +10:00
-url: http://feedvalidator.org/register.html
+link: http://feedvalidator.org/register.html
 tags: feedvalidator firefox feed atom rss
 layout: link
 ---

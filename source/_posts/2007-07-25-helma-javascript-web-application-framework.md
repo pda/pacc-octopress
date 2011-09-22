@@ -1,7 +1,7 @@
 ---
 title: Helma Javascript Web Application Framework
 date: 2007-07-25 12:53:07 +10:00
-url: http://dev.helma.org/
+link: http://dev.helma.org/
 tags: opensource framework helma java javascript programming rhino
 layout: link
 ---

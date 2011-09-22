@@ -1,7 +1,7 @@
 ---
 title: Two HTTP Caching Extensions
 date: 2007-12-13 22:25:34 +11:00
-url: http://www.mnot.net/blog/2007/12/12/stale
+link: http://www.mnot.net/blog/2007/12/12/stale
 tags: http cache performance scalability
 layout: link
 ---

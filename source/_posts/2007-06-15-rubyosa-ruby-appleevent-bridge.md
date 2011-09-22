@@ -1,7 +1,7 @@
 ---
 title: "RubyOSA: Ruby/AppleEvent Bridge"
 date: 2007-06-15 09:49:05 +10:00
-url: http://rubyosa.rubyforge.org/
+link: http://rubyosa.rubyforge.org/
 tags: ruby applescript macosx rubyosa
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: Google Chrome
 date: 2008-09-03 09:59:19 +10:00
-url: http://www.google.com/chrome
+link: http://www.google.com/chrome
 tags: chrome google browser opensource webkit
 layout: link
 ---

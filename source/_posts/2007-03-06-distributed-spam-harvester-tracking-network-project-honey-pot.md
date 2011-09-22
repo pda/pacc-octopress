@@ -1,7 +1,7 @@
 ---
 title: Distributed Spam Harvester Tracking Network | Project Honey Pot
 date: 2007-03-06 19:33:15 +11:00
-url: http://www.projecthoneypot.org/index.php
+link: http://www.projecthoneypot.org/index.php
 tags: spam projecthoneypot email
 layout: link
 ---

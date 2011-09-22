@@ -1,7 +1,7 @@
 ---
 title: The section element | HTML5 Doctor
 date: 2009-09-14 12:17:34 +10:00
-url: http://html5doctor.com/the-section-element/
+link: http://html5doctor.com/the-section-element/
 tags: html5 html section html5doctor
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: "PECL :: Package :: clucene"
 date: 2007-09-11 11:50:39 +10:00
-url: http://pecl.php.net/package/clucene
+link: http://pecl.php.net/package/clucene
 tags: php lucene clucene search opensource
 layout: link
 ---

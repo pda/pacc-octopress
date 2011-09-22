@@ -1,7 +1,7 @@
 ---
 title: Page Speed
 date: 2009-06-05 11:25:52 +10:00
-url: http://code.google.com/speed/page-speed/
+link: http://code.google.com/speed/page-speed/
 tags: pagespeed firefox firebug performance
 layout: link
 ---

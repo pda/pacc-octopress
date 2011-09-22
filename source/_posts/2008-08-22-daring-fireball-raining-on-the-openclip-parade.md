@@ -1,7 +1,7 @@
 ---
 title: "Daring Fireball: Raining on the OpenClip Parade"
 date: 2008-08-22 17:29:47 +10:00
-url: http://daringfireball.net/2008/08/raining_on_the_openclip_parade
+link: http://daringfireball.net/2008/08/raining_on_the_openclip_parade
 tags: openclip iphone daringfireball apple
 layout: link
 ---

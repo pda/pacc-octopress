@@ -1,7 +1,7 @@
 ---
 title: Doctrine - Open Source PHP ORM
 date: 2008-01-30 10:14:42 +11:00
-url: http://www.phpdoctrine.org/
+link: http://www.phpdoctrine.org/
 tags: doctrine php orm programming database opensource sql
 layout: link
 ---

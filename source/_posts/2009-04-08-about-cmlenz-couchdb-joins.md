@@ -1,7 +1,7 @@
 ---
 title: about:cmlenz - CouchDB "Joins"
 date: 2009-04-08 21:23:07 +10:00
-url: http://www.cmlenz.net/archives/2007/10/couchdb-joins
+link: http://www.cmlenz.net/archives/2007/10/couchdb-joins
 tags: couchdb database
 layout: link
 ---

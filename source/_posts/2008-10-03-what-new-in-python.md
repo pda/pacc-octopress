@@ -1,7 +1,7 @@
 ---
 title: "What\xE2\x80\x99s New in Python 2.6"
 date: 2008-10-03 10:00:03 +10:00
-url: http://docs.python.org/whatsnew/2.6.html
+link: http://docs.python.org/whatsnew/2.6.html
 tags: python programming language
 layout: link
 ---

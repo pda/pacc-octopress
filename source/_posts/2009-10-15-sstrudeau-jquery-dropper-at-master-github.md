@@ -1,7 +1,7 @@
 ---
 title: sstrudeau's jquery-dropper at master - GitHub
 date: 2009-10-15 18:27:01 +11:00
-url: http://github.com/sstrudeau/jquery-dropper
+link: http://github.com/sstrudeau/jquery-dropper
 tags: jquery-dropper jquery plugin color
 layout: link
 ---

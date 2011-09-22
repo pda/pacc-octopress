@@ -1,7 +1,7 @@
 ---
 title: mod_rpaf for Apache
 date: 2008-06-25 08:34:37 +10:00
-url: http://stderr.net/apache/rpaf/
+link: http://stderr.net/apache/rpaf/
 tags: mod_rpaf apache http
 layout: link
 ---

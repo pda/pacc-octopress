@@ -1,7 +1,7 @@
 ---
 title: "InfoQ: REST Anti-Patterns"
 date: 2008-07-07 14:16:35 +10:00
-url: http://www.infoq.com/articles/rest-anti-patterns
+link: http://www.infoq.com/articles/rest-anti-patterns
 tags: rest infoq architecture http stefantilkov
 layout: link
 ---

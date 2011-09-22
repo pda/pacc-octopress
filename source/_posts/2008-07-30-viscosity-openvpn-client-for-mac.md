@@ -1,7 +1,7 @@
 ---
 title: Viscosity - OpenVPN Client for Mac
 date: 2008-07-30 22:26:57 +10:00
-url: http://www.viscosityvpn.com/
+link: http://www.viscosityvpn.com/
 tags: openvpn vpn viscosity macos software
 layout: link
 ---

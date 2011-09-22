@@ -1,7 +1,7 @@
 ---
 title: ZiYa Plugin - S L I D E R
 date: 2007-01-18 09:58:10 +11:00
-url: http://ziya.liquidrail.com/
+link: http://ziya.liquidrail.com/
 tags: ruby flash plugin chart graph
 layout: link
 ---

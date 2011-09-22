@@ -1,7 +1,7 @@
 ---
 title: Fluid - Free Site Specific Browser for Mac OS X Leopard
 date: 2008-01-03 20:12:25 +11:00
-url: http://fluidapp.com/
+link: http://fluidapp.com/
 tags: fluid browser cocoa
 layout: link
 ---

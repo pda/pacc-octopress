@@ -1,7 +1,7 @@
 ---
 title: How to deal with slow HTTP clients? (by Jeremy Zawodny)
 date: 2007-02-08 12:50:05 +11:00
-url: http://jeremy.zawodny.com/blog/archives/008496.html
+link: http://jeremy.zawodny.com/blog/archives/008496.html
 tags: apache performance ddos
 layout: link
 ---

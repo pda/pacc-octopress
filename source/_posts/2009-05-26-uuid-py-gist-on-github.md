@@ -1,7 +1,7 @@
 ---
 title: uuid.py gist on GitHub
 date: 2009-05-26 11:05:39 +10:00
-url: http://gist.github.com/117292
+link: http://gist.github.com/117292
 tags: uuid id scalability programming python gist
 layout: link
 ---

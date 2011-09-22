@@ -1,7 +1,7 @@
 ---
 title: SQLFormat - Online SQL Formatting Service
 date: 2009-05-06 10:42:20 +10:00
-url: http://sqlformat.appspot.com/
+link: http://sqlformat.appspot.com/
 tags: sql appengine sqlparse python opensource database
 layout: link
 ---

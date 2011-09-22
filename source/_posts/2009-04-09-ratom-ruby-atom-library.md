@@ -1,7 +1,7 @@
 ---
 title: rAtom - A Ruby Atom Library
 date: 2009-04-09 09:38:49 +10:00
-url: http://ratom.rubyforge.org/
+link: http://ratom.rubyforge.org/
 tags: ratom ruby atom atompub
 layout: link
 ---

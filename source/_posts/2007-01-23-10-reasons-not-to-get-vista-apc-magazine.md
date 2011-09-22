@@ -1,7 +1,7 @@
 ---
 title: 10 reasons not to get Vista | APC Magazine
 date: 2007-01-23 11:28:56 +11:00
-url: http://apcmag.com/5049/10_reasons_not_to_get_vista
+link: http://apcmag.com/5049/10_reasons_not_to_get_vista
 tags: vista microsoft windows apc
 layout: link
 ---

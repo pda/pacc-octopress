@@ -1,7 +1,7 @@
 ---
 title: "Pygments \xE2\x80\x94 Python syntax highlighter"
 date: 2008-05-12 12:02:15 +10:00
-url: http://pygments.org/
+link: http://pygments.org/
 tags: pygments python highlight syntax opensource
 layout: link
 ---

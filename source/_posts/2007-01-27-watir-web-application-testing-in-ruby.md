@@ -1,7 +1,7 @@
 ---
 title: "Watir: Web Application Testing in Ruby"
 date: 2007-01-27 00:08:48 +11:00
-url: http://wtr.rubyforge.org/
+link: http://wtr.rubyforge.org/
 tags: watir ruby testing web tools programming development opensource
 layout: link
 ---

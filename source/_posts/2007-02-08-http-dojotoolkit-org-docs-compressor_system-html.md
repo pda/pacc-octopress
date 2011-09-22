@@ -1,7 +1,7 @@
 ---
 title: http://dojotoolkit.org/docs/compressor_system.html
 date: 2007-02-08 17:14:57 +11:00
-url: http://dojotoolkit.org/docs/compressor_system.html
+link: http://dojotoolkit.org/docs/compressor_system.html
 tags: javascript compression tools dojo optimization
 layout: link
 ---

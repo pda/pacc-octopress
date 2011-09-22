@@ -1,7 +1,7 @@
 ---
 title: "Tokyo Cabinet: a modern implementation of DBM"
 date: 2009-03-02 14:27:00 +11:00
-url: http://tokyocabinet.sourceforge.net/index.html
+link: http://tokyocabinet.sourceforge.net/index.html
 tags: opensource scalability tokyocabinet tokyotyrant dbm japanese
 layout: link
 ---

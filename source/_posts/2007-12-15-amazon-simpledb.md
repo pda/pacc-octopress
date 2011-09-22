@@ -1,7 +1,7 @@
 ---
 title: Amazon SimpleDB
 date: 2007-12-15 10:51:27 +11:00
-url: http://aws.amazon.com/sdb
+link: http://aws.amazon.com/sdb
 tags: amazon simpledb aws scalability service database
 layout: link
 ---

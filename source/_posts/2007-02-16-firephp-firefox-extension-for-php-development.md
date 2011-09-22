@@ -1,7 +1,7 @@
 ---
 title: FirePHP - Firefox Extension for PHP Development
 date: 2007-02-16 11:12:05 +11:00
-url: http://www.firephp.org/
+link: http://www.firephp.org/
 tags: php firefox firebug debug webdevelopment
 layout: link
 ---

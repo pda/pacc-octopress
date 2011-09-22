@@ -1,7 +1,7 @@
 ---
 title: Text Ascii Art Generator
 date: 2009-06-29 12:07:47 +10:00
-url: http://patorjk.com/software/taag/
+link: http://patorjk.com/software/taag/
 tags: ascii art generator
 layout: link
 ---

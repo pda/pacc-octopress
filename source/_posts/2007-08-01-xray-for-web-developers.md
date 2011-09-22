@@ -1,7 +1,7 @@
 ---
 title: "XRAY :: for web developers"
 date: 2007-08-01 09:54:20 +10:00
-url: http://westciv.com/xray/
+link: http://westciv.com/xray/
 tags: bookmarklet xray westciv css webdesign dom
 layout: link
 ---

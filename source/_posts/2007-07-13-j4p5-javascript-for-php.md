@@ -1,7 +1,7 @@
 ---
 title: "J4P5: Javascript For PHP 5"
 date: 2007-07-13 10:19:25 +10:00
-url: http://j4p5.sourceforge.net/
+link: http://j4p5.sourceforge.net/
 tags: php javascript parser interpreter programming
 layout: link
 ---

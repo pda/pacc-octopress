@@ -1,7 +1,7 @@
 ---
 title: I like Unicorn because it's Unix
 date: 2009-10-07 15:14:24 +11:00
-url: http://tomayko.com/writings/unicorn-is-unix
+link: http://tomayko.com/writings/unicorn-is-unix
 tags: ryantomayko unicorn ruby unix http
 layout: link
 ---

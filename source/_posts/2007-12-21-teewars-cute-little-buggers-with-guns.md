@@ -1,7 +1,7 @@
 ---
 title: Teewars - Cute Little Buggers With Guns
 date: 2007-12-21 13:33:05 +11:00
-url: http://www.teewars.com/
+link: http://www.teewars.com/
 tags: teewars game opensource
 layout: link
 ---

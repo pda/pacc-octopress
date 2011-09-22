@@ -1,7 +1,7 @@
 ---
 title: DHCP on VMware Fusion | thirdbIT
 date: 2009-01-16 13:13:13 +11:00
-url: http://www.thirdbit.net/articles/2008/03/04/dhcp-on-vmware-fusion/
+link: http://www.thirdbit.net/articles/2008/03/04/dhcp-on-vmware-fusion/
 tags: virtualization vmware vmwarefusion dhcp
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: "CSS Tools: Reset CSS"
 date: 2008-02-13 15:54:57 +11:00
-url: http://meyerweb.com/eric/tools/css/reset/
+link: http://meyerweb.com/eric/tools/css/reset/
 tags: css stylesheet ericmeyer reset
 layout: link
 ---

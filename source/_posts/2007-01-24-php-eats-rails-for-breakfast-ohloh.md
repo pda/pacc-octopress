@@ -1,7 +1,7 @@
 ---
 title: PHP Eats Rails for Breakfast - OHLOH
 date: 2007-01-24 15:50:39 +11:00
-url: http://www.ohloh.net/wiki/articles/php_eats_rails
+link: http://www.ohloh.net/wiki/articles/php_eats_rails
 tags: ohloh programming statistics php ruby python perl comparison
 layout: link
 ---

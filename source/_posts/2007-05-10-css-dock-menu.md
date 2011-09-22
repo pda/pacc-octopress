@@ -1,7 +1,7 @@
 ---
 title: CSS Dock Menu
 date: 2007-05-10 08:20:22 +10:00
-url: http://www.ndesign-studio.com/blog/mac/css-dock-menu
+link: http://www.ndesign-studio.com/blog/mac/css-dock-menu
 tags: css javascript jquery fisheye interface dock
 layout: link
 ---

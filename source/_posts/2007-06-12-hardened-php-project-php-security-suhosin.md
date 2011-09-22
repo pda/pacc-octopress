@@ -1,7 +1,7 @@
 ---
 title: Hardened-PHP Project - PHP Security - Suhosin
 date: 2007-06-12 09:41:23 +10:00
-url: http://www.hardened-php.net/suhosin/
+link: http://www.hardened-php.net/suhosin/
 tags: php suhosin security
 layout: link
 ---

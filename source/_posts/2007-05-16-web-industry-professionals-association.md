@@ -1,7 +1,7 @@
 ---
 title: Web Industry Professionals Association
 date: 2007-05-16 14:20:28 +10:00
-url: http://wipa.org.au/
+link: http://wipa.org.au/
 tags: wipa web association australia
 layout: link
 ---

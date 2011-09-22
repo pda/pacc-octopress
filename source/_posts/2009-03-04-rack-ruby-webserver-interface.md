@@ -1,7 +1,7 @@
 ---
 title: "Rack: a Ruby Webserver Interface"
 date: 2009-03-04 20:33:34 +11:00
-url: http://rack.rubyforge.org/
+link: http://rack.rubyforge.org/
 tags: opensource http ruby rack
 layout: link
 ---

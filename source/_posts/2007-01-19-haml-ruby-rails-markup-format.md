@@ -1,7 +1,7 @@
 ---
 title: "#haml - Ruby/Rails Markup Format"
 date: 2007-01-19 15:52:42 +11:00
-url: http://haml.hamptoncatlin.com/
+link: http://haml.hamptoncatlin.com/
 tags: haml ruby rails template markup
 layout: link
 ---

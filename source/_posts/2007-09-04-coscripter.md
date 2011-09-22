@@ -1,7 +1,7 @@
 ---
 title: CoScripter
 date: 2007-09-04 09:02:15 +10:00
-url: http://services.alphaworks.ibm.com/coscripter/browse/about
+link: http://services.alphaworks.ibm.com/coscripter/browse/about
 tags: coscripter ibm firefox extension automation
 layout: link
 ---

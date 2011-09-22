@@ -1,7 +1,7 @@
 ---
 title: "Ma.tt \xC2\xBB IE6 Independence?"
 date: 2008-07-09 10:15:33 +10:00
-url: http://ma.tt/2008/07/ie6-independence/
+link: http://ma.tt/2008/07/ie6-independence/
 tags: browsers ie ie6 wordpress
 layout: link
 ---

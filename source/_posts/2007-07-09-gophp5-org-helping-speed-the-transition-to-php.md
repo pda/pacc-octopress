@@ -1,7 +1,7 @@
 ---
 title: GoPHP5.org - helping speed the transition to PHP 5.2
 date: 2007-07-09 10:21:57 +10:00
-url: http://gophp5.org/
+link: http://gophp5.org/
 tags: php gophp5
 layout: link
 ---

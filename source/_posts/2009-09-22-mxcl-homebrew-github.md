@@ -1,7 +1,7 @@
 ---
 title: mxcl's homebrew - GitHub
 date: 2009-09-22 09:33:03 +10:00
-url: http://github.com/mxcl/homebrew
+link: http://github.com/mxcl/homebrew
 tags: homebrew brew package opensource github macosx
 layout: link
 ---

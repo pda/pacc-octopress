@@ -1,7 +1,7 @@
 ---
 title: rakaz - Enabling the debug menu on Safari for Windows
 date: 2007-06-13 08:45:18 +10:00
-url: http://rakaz.nl/item/enabling_the_debug_menu_on_safari_for_windows
+link: http://rakaz.nl/item/enabling_the_debug_menu_on_safari_for_windows
 tags: windows safari hack debug browser
 layout: link
 ---

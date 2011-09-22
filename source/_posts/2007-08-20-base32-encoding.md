@@ -1,7 +1,7 @@
 ---
 title: Base32 Encoding
 date: 2007-08-20 21:36:43 +10:00
-url: http://crockford.com/wrmg/base32.html
+link: http://crockford.com/wrmg/base32.html
 tags: encoding base32
 layout: link
 ---

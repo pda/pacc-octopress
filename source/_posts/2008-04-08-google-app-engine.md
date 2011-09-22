@@ -1,7 +1,7 @@
 ---
 title: Google App Engine
 date: 2008-04-08 13:33:00 +10:00
-url: http://code.google.com/appengine/
+link: http://code.google.com/appengine/
 tags: google appengine googlecode platform python
 layout: link
 ---

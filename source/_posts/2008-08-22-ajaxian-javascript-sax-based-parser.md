@@ -1,7 +1,7 @@
 ---
 title: "Ajaxian \xC2\xBB JavaScript SAX Based Parser"
 date: 2008-08-22 10:20:25 +10:00
-url: http://ajaxian.com/archives/javascript-sax-based-parser
+link: http://ajaxian.com/archives/javascript-sax-based-parser
 tags: xml sax javascript programming ajaxian
 layout: link
 ---

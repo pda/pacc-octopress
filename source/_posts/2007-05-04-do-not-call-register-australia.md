@@ -1,7 +1,7 @@
 ---
 title: Do Not Call Register - Australia
 date: 2007-05-04 19:03:04 +10:00
-url: https://www.donotcall.gov.au/
+link: https://www.donotcall.gov.au/
 tags: australia marketing donotcall phone
 layout: link
 ---

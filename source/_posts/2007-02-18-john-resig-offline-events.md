@@ -1,7 +1,7 @@
 ---
 title: John Resig - Offline Events
 date: 2007-02-18 10:00:05 +11:00
-url: http://ejohn.org/blog/offline-events/
+link: http://ejohn.org/blog/offline-events/
 tags: firefox javascript offline mozilla whatwg
 layout: link
 ---

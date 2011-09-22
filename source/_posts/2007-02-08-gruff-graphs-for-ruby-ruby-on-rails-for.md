@@ -1,7 +1,7 @@
 ---
 title: Gruff Graphs for Ruby | Ruby on Rails for Newbies
 date: 2007-02-08 10:20:01 +11:00
-url: http://nubyonrails.com/pages/gruff
+link: http://nubyonrails.com/pages/gruff
 tags: ruby rails graph gruff nubyonrails visualization
 layout: link
 ---

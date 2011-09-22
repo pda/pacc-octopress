@@ -1,7 +1,7 @@
 ---
 title: Fork JavaScript
 date: 2007-01-25 12:31:46 +11:00
-url: http://forkjavascript.org/
+link: http://forkjavascript.org/
 tags: javascript library ajax framework rails
 layout: link
 ---

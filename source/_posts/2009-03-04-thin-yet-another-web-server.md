@@ -1,7 +1,7 @@
 ---
 title: Thin - yet another web server
 date: 2009-03-04 20:37:07 +11:00
-url: http://code.macournoyer.com/thin/
+link: http://code.macournoyer.com/thin/
 tags: opensource http ruby rack thin eventmachine mongrel
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Poll results: 50.4% of respondents maximise windows | 456 Berea Street"
 date: 2007-04-16 09:29:20 +10:00
-url: http://www.456bereastreet.com/archive/200704/poll_results_504_of_respondents_maximise_windows/
+link: http://www.456bereastreet.com/archive/200704/poll_results_504_of_respondents_maximise_windows/
 tags: webdesign poll statistics
 layout: link
 ---

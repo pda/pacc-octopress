@@ -1,7 +1,7 @@
 ---
 title: "RubyForge: rb-appscript: Project Info"
 date: 2007-03-02 11:49:31 +11:00
-url: http://rubyforge.org/projects/rb-appscript/
+link: http://rubyforge.org/projects/rb-appscript/
 tags: ruby osx programming applescript macosx
 layout: link
 ---

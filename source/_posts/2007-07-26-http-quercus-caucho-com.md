@@ -1,7 +1,7 @@
 ---
 title: http://quercus.caucho.com/
 date: 2007-07-26 23:41:25 +10:00
-url: http://quercus.caucho.com/
+link: http://quercus.caucho.com/
 tags: quercus php java opensource
 layout: link
 ---

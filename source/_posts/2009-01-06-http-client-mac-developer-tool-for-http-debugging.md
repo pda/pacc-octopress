@@ -1,7 +1,7 @@
 ---
 title: HTTP Client - Mac Developer Tool for HTTP Debugging
 date: 2009-01-06 13:43:28 +11:00
-url: http://ditchnet.org/httpclient/
+link: http://ditchnet.org/httpclient/
 tags: opensource macosx http httpclient toddditchendorf
 layout: link
 ---

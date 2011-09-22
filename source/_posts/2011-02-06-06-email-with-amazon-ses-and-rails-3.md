@@ -1,7 +1,7 @@
 ---
 title: "Email with Amazon SES and Rails 3"
 date: 2011-02-06 19:48:31 +11:00
-url: http://robots.thoughtbot.com/post/3105121049/delivering-email-with-amazon-ses-in-a-rails-3-app
+link: http://robots.thoughtbot.com/post/3105121049/delivering-email-with-amazon-ses-in-a-rails-3-app
 tags: rails email ses amazon aws actionmailer
 layout: link
 ---

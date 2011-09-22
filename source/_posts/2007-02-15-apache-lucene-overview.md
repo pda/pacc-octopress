@@ -1,7 +1,7 @@
 ---
 title: Apache Lucene - Overview
 date: 2007-02-15 14:05:34 +11:00
-url: http://lucene.apache.org/java/docs/
+link: http://lucene.apache.org/java/docs/
 tags: search java lucene apache opensource programming
 layout: link
 ---

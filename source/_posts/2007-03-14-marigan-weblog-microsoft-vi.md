@@ -1,7 +1,7 @@
 ---
 title: Marigan's Weblog - Microsoft vi
 date: 2007-03-14 08:31:01 +11:00
-url: http://blogs.sun.com/marigan/entry/how_the_vi_editor_would
+link: http://blogs.sun.com/marigan/entry/how_the_vi_editor_would
 tags: microsoft humor vi vim
 layout: link
 ---

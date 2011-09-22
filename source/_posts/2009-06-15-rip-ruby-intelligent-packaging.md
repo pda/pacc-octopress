@@ -1,7 +1,7 @@
 ---
 title: "Rip: Ruby's Intelligent Packaging"
 date: 2009-06-15 10:25:44 +10:00
-url: http://hellorip.com/about.html
+link: http://hellorip.com/about.html
 tags: rip ruby packaging git github
 layout: link
 ---

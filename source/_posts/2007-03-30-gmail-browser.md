@@ -1,7 +1,7 @@
 ---
 title: Gmail Browser
 date: 2007-03-30 09:47:01 +10:00
-url: http://willmore.eu/gmailbrowser/
+link: http://willmore.eu/gmailbrowser/
 tags: gmail macosx software
 layout: link
 ---

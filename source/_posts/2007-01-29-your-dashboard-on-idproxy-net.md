@@ -1,7 +1,7 @@
 ---
 title: Your dashboard on idproxy.net
 date: 2007-01-29 21:51:45 +11:00
-url: http://idproxy.net/
+link: http://idproxy.net/
 tags: openid yahoo identity authentication service idproxy
 layout: link
 ---

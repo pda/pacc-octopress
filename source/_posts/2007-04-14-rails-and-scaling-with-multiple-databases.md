@@ -1,7 +1,7 @@
 ---
 title: Rails and Scaling with Multiple Databases
 date: 2007-04-14 17:06:21 +10:00
-url: http://tomayko.com/weblog/2007/04/13/rails-multiple-connections
+link: http://tomayko.com/weblog/2007/04/13/rails-multiple-connections
 tags: rails performance ruby database scalability
 layout: link
 ---

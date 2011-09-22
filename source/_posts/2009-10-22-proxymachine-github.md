@@ -1,7 +1,7 @@
 ---
 title: proxymachine - GitHub
 date: 2009-10-22 11:46:43 +11:00
-url: http://github.com/mojombo/proxymachine
+link: http://github.com/mojombo/proxymachine
 tags: proxymachine ruby eventmachine proxy tcp github
 layout: link
 ---

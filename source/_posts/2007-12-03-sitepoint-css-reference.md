@@ -1,7 +1,7 @@
 ---
 title: SitePoint CSS Reference
 date: 2007-12-03 18:27:31 +11:00
-url: http://reference.sitepoint.com/css
+link: http://reference.sitepoint.com/css
 tags: css reference sitepoint webdesign webdevelopment
 layout: link
 ---

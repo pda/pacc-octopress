@@ -1,7 +1,7 @@
 ---
 title: Semantic Versioning
 date: 2009-12-16 14:13:37 +11:00
-url: http://semver.org/
+link: http://semver.org/
 tags: semver versioning semantic api documentation development
 layout: link
 ---

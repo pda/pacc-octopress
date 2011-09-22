@@ -1,7 +1,7 @@
 ---
 title: "memcached: a distributed memory object caching system"
 date: 2007-02-26 11:34:42 +11:00
-url: http://www.danga.com/memcached/
+link: http://www.danga.com/memcached/
 tags: cache performance
 layout: link
 ---

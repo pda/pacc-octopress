@@ -1,7 +1,7 @@
 ---
 title: Open Source Directory
 date: 2007-01-24 15:43:32 +11:00
-url: http://www.ohloh.net/
+link: http://www.ohloh.net/
 tags: opensource software development directory stat
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: Prototype Javascript Library Official Blog
 date: 2007-01-19 13:23:49 +11:00
-url: http://prototypejs.org/
+link: http://prototypejs.org/
 tags: javascript prototype library programming framework webdesign webdevelopment
 layout: link
 ---

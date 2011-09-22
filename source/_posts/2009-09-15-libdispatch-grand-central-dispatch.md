@@ -1,7 +1,7 @@
 ---
 title: libdispatch (Grand Central Dispatch)
 date: 2009-09-15 09:38:40 +10:00
-url: http://libdispatch.macosforge.org/
+link: http://libdispatch.macosforge.org/
 tags: apple libdispatch opensource llvm programming
 layout: link
 ---

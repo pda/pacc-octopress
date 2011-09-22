@@ -1,7 +1,7 @@
 ---
 title: Yahoo! Query Language - YDN
 date: 2008-12-15 12:52:24 +11:00
-url: http://developer.yahoo.com/yql/console/
+link: http://developer.yahoo.com/yql/console/
 tags: xml yahoo json yql webservice
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Starling: RubyForge"
 date: 2008-05-15 13:52:26 +10:00
-url: http://rubyforge.org/projects/starling
+link: http://rubyforge.org/projects/starling
 tags: starling queue ruby twitter opensource memcached
 layout: link
 ---

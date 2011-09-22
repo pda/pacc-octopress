@@ -1,7 +1,7 @@
 ---
 title: GrandPerspective
 date: 2007-03-01 09:45:47 +11:00
-url: http://grandperspectiv.sourceforge.net/
+link: http://grandperspectiv.sourceforge.net/
 tags: mac software grandperspective opensource
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: http://www.json.org/json.js
 date: 2007-04-11 13:16:36 +10:00
-url: http://www.json.org/json.js
+link: http://www.json.org/json.js
 tags: json javascript programming library
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: John Resig - DOM DocumentFragments
 date: 2008-07-22 09:32:22 +10:00
-url: http://ejohn.org/blog/dom-documentfragments/
+link: http://ejohn.org/blog/dom-documentfragments/
 tags: documentfragment dom javascript
 layout: link
 ---

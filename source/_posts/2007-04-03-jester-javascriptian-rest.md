@@ -1,7 +1,7 @@
 ---
 title: "Jester: JavaScriptian REST"
 date: 2007-04-03 09:25:47 +10:00
-url: http://giantrobots.thoughtbot.com/2007/4/2/jester-javascriptian-rest
+link: http://giantrobots.thoughtbot.com/2007/4/2/jester-javascriptian-rest
 tags: javascript rest rails jester activerecord prototype
 layout: link
 ---

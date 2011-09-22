@@ -1,7 +1,7 @@
 ---
 title: YSlow for Firebug
 date: 2007-07-25 15:31:16 +10:00
-url: http://developer.yahoo.com/yslow/
+link: http://developer.yahoo.com/yslow/
 tags: yslow yahoo firefox firebug jslint performance extension
 layout: link
 ---

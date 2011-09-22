@@ -1,7 +1,7 @@
 ---
 title: stackoverflow
 date: 2008-04-17 13:45:14 +10:00
-url: http://stackoverflow.com/
+link: http://stackoverflow.com/
 tags: stackoverflow joelonsoftware codinghorror
 layout: link
 ---

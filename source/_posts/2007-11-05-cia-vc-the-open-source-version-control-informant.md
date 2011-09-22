@@ -1,7 +1,7 @@
 ---
 title: CIA.vc - The open source version control informant
 date: 2007-11-05 09:52:26 +11:00
-url: http://cia.vc/
+link: http://cia.vc/
 tags: cia python django subversion svn opensource development
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: Ganglia Monitoring System
 date: 2007-04-30 09:50:06 +10:00
-url: http://ganglia.sourceforge.net/
+link: http://ganglia.sourceforge.net/
 tags: ganglia monitoring rrdtool
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Australia on Rails May 2007 - Sydney, Australia : Homepage"
 date: 2007-01-28 18:40:56 +11:00
-url: http://www.railsconfau.com/
+link: http://www.railsconfau.com/
 tags: railsconfau australia sydney conference rails
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Eric's Archived Thoughts: Reworked Reset"
 date: 2007-04-15 20:13:37 +10:00
-url: http://meyerweb.com/eric/thoughts/2007/04/14/reworked-reset/
+link: http://meyerweb.com/eric/thoughts/2007/04/14/reworked-reset/
 tags: css html
 layout: link
 ---

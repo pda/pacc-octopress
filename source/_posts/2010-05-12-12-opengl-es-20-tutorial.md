@@ -1,7 +1,7 @@
 ---
 title: "An intro to modern OpenGL"
 date: 2010-05-12 22:29:00 +11:00
-url: http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html
+link: http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html
 tags: opengl tutorial webgl
 layout: link
 ---

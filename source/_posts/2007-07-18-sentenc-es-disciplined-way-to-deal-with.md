@@ -1,7 +1,7 @@
 ---
 title: Sentenc.es - A Disciplined Way To Deal With Email
 date: 2007-07-18 20:19:20 +10:00
-url: http://five.sentenc.es/
+link: http://five.sentenc.es/
 tags: email sentences productivity
 layout: link
 ---

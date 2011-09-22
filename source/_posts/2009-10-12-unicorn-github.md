@@ -1,7 +1,7 @@
 ---
 title: Unicorn! - GitHub
 date: 2009-10-12 17:19:32 +11:00
-url: http://github.com/blog/517-unicorn
+link: http://github.com/blog/517-unicorn
 tags: unicorn ruby http nginx mongrel github
 layout: link
 ---

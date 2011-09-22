@@ -1,7 +1,7 @@
 ---
 title: jaml - GitHub
 date: 2009-11-09 09:04:33 +11:00
-url: http://github.com/edspencer/jaml
+link: http://github.com/edspencer/jaml
 tags: jaml haml html markup template javascript
 layout: link
 ---

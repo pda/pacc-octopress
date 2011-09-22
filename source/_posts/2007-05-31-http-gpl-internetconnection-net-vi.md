@@ -1,7 +1,7 @@
 ---
 title: http://gpl.internetconnection.net/vi/
 date: 2007-05-31 10:48:06 +10:00
-url: http://gpl.internetconnection.net/vi/
+link: http://gpl.internetconnection.net/vi/
 tags: javascript vi
 layout: link
 ---

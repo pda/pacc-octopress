@@ -1,7 +1,7 @@
 ---
 title: "Yahoo! UI Library: Rich Text Editor"
 date: 2007-08-16 09:13:38 +10:00
-url: http://developer.yahoo.com/yui/editor/
+link: http://developer.yahoo.com/yui/editor/
 tags: yui rte wysiwyg webdevelopment javascript
 layout: link
 ---

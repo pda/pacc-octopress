@@ -1,7 +1,7 @@
 ---
 title: mimeparse - Google Code
 date: 2008-12-22 14:54:50 +11:00
-url: http://code.google.com/p/mimeparse/
+link: http://code.google.com/p/mimeparse/
 tags: opensource php javascript http ruby python googlecode erlang perl mimeparse mime
 layout: link
 ---

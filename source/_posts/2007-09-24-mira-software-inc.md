@@ -1,7 +1,7 @@
 ---
 title: Mira Software, Inc.
 date: 2007-09-24 14:43:40 +10:00
-url: http://mirasoftware.com/
+link: http://mirasoftware.com/
 tags: electricfloor software bluetooth
 layout: link
 ---

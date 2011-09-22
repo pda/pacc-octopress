@@ -1,7 +1,7 @@
 ---
 title: Machinarium
 date: 2010-01-22 14:03:56 +11:00
-url: http://machinarium.net/demo/
+link: http://machinarium.net/demo/
 tags: machinarium game flash
 layout: link
 ---

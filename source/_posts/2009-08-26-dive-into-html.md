@@ -1,7 +1,7 @@
 ---
 title: Dive Into HTML 5
 date: 2009-08-26 10:25:35 +10:00
-url: http://diveintohtml5.org/
+link: http://diveintohtml5.org/
 tags: html5 markpilgrim canvas book diveinto diveintohtml5 html javascript
 layout: link
 ---

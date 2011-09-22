@@ -1,7 +1,7 @@
 ---
 title: Eventlet - Second Life Wiki
 date: 2007-11-27 09:57:03 +11:00
-url: http://wiki.secondlife.com/wiki/Eventlet
+link: http://wiki.secondlife.com/wiki/Eventlet
 tags: eventlet python linden secondlife programming
 layout: link
 ---

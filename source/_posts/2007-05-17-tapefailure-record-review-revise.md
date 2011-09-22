@@ -1,7 +1,7 @@
 ---
 title: tapefailure > record. review. revise.
 date: 2007-05-17 15:52:39 +10:00
-url: http://www.tapefailure.com/
+link: http://www.tapefailure.com/
 tags: javascript tracking statistics usability
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SitePoint Blogs \xC2\xBB Simple Date and Time Localization With JavaScript"
 date: 2007-06-04 15:14:05 +10:00
-url: http://www.sitepoint.com/blogs/2007/06/04/simple-date-and-time-localization-with-javascript/
+link: http://www.sitepoint.com/blogs/2007/06/04/simple-date-and-time-localization-with-javascript/
 tags: html javascript microformat sitepoint
 layout: link
 ---

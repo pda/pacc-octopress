@@ -1,7 +1,7 @@
 ---
 title: "Melbourne Coffee Review: Celebrate Good Times!"
 date: 2008-07-29 19:32:52 +10:00
-url: http://www.melbournecoffeereview.com/2008/07/celebrate-good-times.html
+link: http://www.melbournecoffeereview.com/2008/07/celebrate-good-times.html
 tags: coffee starbucks melbournecoffeereview australia
 layout: link
 ---

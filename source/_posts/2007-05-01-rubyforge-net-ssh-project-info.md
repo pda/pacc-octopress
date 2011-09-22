@@ -1,7 +1,7 @@
 ---
 title: "RubyForge: Net::SSH: Project Info"
 date: 2007-05-01 20:12:26 +10:00
-url: http://rubyforge.org/projects/net-ssh
+link: http://rubyforge.org/projects/net-ssh
 tags: ruby ssh opensource
 layout: link
 ---

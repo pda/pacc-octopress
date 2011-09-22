@@ -1,7 +1,7 @@
 ---
 title: Explaining REST to Damien Katz
 date: 2008-08-18 15:31:17 +10:00
-url: http://www.25hoursaday.com/weblog/2008/08/17/ExplainingRESTToDamienKatz.aspx
+link: http://www.25hoursaday.com/weblog/2008/08/17/ExplainingRESTToDamienKatz.aspx
 tags: rest dareobasanjo http
 layout: link
 ---

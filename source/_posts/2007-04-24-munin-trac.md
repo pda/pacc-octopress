@@ -1,7 +1,7 @@
 ---
 title: Munin - Trac
 date: 2007-04-24 00:09:26 +10:00
-url: http://munin.projects.linpro.no/
+link: http://munin.projects.linpro.no/
 tags: munin monitoring linux sysadmin rrdtool
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: "the { buckblogs :here }: Named, explicit routes"
 date: 2007-01-23 11:52:59 +11:00
-url: http://weblog.jamisbuck.org/2007/1/22/named-explicit-routes
+link: http://weblog.jamisbuck.org/2007/1/22/named-explicit-routes
 tags: ruby rails routes jamisbuck
 layout: link
 ---

@@ -1,7 +1,7 @@
 ---
 title: AppDrop - App Engine Compatibility Layer
 date: 2008-04-15 09:49:39 +10:00
-url: http://appdrop.com/
+link: http://appdrop.com/
 tags: appdrop appengine google ec2
 layout: link
 ---

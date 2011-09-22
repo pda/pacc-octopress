@@ -1,7 +1,7 @@
 ---
 title: Pro Git Book
 date: 2009-08-02 21:40:43 +10:00
-url: http://progit.org/
+link: http://progit.org/
 tags: git book github schacon scm ebook cc
 layout: link
 ---

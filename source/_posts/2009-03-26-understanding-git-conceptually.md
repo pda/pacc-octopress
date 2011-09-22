@@ -1,7 +1,7 @@
 ---
 title: Understanding Git Conceptually
 date: 2009-03-26 09:15:42 +11:00
-url: http://www.eecs.harvard.edu/~cduan/technical/git/
+link: http://www.eecs.harvard.edu/~cduan/technical/git/
 tags: git scm
 layout: link
 ---

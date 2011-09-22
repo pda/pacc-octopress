@@ -1,7 +1,7 @@
 ---
 title: "Pipes: Rewire the web"
 date: 2007-02-08 17:37:33 +11:00
-url: http://pipes.yahoo.com/
+link: http://pipes.yahoo.com/
 tags: yahoo pipes mashup
 layout: link
 ---

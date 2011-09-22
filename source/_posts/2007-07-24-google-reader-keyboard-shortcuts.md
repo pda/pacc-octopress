@@ -1,7 +1,7 @@
 ---
 title: Google Reader - Keyboard Shortcuts
 date: 2007-07-24 09:24:14 +10:00
-url: http://www.google.com/help/reader/faq.html#shortcuts
+link: http://www.google.com/help/reader/faq.html#shortcuts
 tags: google reader googlereader keyboard shortcuts
 layout: link
 ---

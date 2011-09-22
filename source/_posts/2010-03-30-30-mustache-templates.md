@@ -1,7 +1,7 @@
 ---
 title: "mustache: logic-less templates"
 date: 2010-03-30 21:18:00 +11:00
-url: http://defunkt.github.com/mustache/
+link: http://defunkt.github.com/mustache/
 tags: mustache template ruby javascript python erlang go lua php
 layout: link
 ---

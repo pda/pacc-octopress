@@ -1,7 +1,7 @@
 ---
 title: Welcome to ERights.Org
 date: 2007-01-24 11:09:55 +11:00
-url: http://erights.org/
+link: http://erights.org/
 tags: programming language e-lang
 layout: link
 ---

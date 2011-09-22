@@ -1,7 +1,7 @@
 ---
 title: Joe Gregorio | BitWorking | An Introduction to REST
 date: 2008-10-22 22:07:18 +11:00
-url: http://bitworking.org/news/373/An-Introduction-to-REST
+link: http://bitworking.org/news/373/An-Introduction-to-REST
 tags: rest joegregorio bitworking google
 layout: link
 ---

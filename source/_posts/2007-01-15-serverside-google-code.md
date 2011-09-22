@@ -1,7 +1,7 @@
 ---
 title: serverside - Google Code
 date: 2007-01-15 17:13:21 +11:00
-url: http://code.google.com/p/serverside/
+link: http://code.google.com/p/serverside/
 tags: serverside ruby server framework http
 layout: link
 ---

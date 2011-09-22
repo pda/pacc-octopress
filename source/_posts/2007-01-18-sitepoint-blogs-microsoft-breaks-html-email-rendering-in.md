@@ -1,7 +1,7 @@
 ---
 title: "SitePoint Blogs \xC2\xBB Microsoft Breaks HTML Email Rendering in Outlook 2007"
 date: 2007-01-18 11:33:00 +11:00
-url: http://www.sitepoint.com/blogs/2007/01/10/microsoft-breaks-html-email-rendering-in-outlook/
+link: http://www.sitepoint.com/blogs/2007/01/10/microsoft-breaks-html-email-rendering-in-outlook/
 tags: microsoft outlook sitepoint email html
 layout: link
 ---

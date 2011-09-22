@@ -1,7 +1,7 @@
 ---
 title: phpsh -- an interactive shell for php
 date: 2007-04-03 21:18:21 +10:00
-url: http://www.phpsh.org/
+link: http://www.phpsh.org/
 tags: php programming development python opensource facebook
 layout: link
 ---

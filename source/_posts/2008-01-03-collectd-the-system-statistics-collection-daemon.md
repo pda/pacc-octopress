@@ -1,7 +1,7 @@
 ---
 title: collectd - The system statistics collection daemon
 date: 2008-01-03 21:07:52 +11:00
-url: http://collectd.org/
+link: http://collectd.org/
 tags: collectd opensource monitoring rrd c
 layout: link
 ---

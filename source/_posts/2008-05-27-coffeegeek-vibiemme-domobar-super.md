@@ -1,7 +1,7 @@
 ---
 title: CoffeeGeek - Vibiemme Domobar Super
 date: 2008-05-27 18:30:33 +10:00
-url: http://coffeegeek.com/proreviews/firstlook/vibiemmedomobarsuper
+link: http://coffeegeek.com/proreviews/firstlook/vibiemmedomobarsuper
 tags: coffee vibiemme coffeegeek review
 layout: link
 ---

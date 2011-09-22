@@ -1,7 +1,7 @@
 ---
 title: Sopht Square - CleanArchiver
 date: 2007-03-29 10:57:20 +10:00
-url: http://www.sopht.jp/cleanarchiver/
+link: http://www.sopht.jp/cleanarchiver/
 tags: software mac osx zip opensource
 layout: link
 ---

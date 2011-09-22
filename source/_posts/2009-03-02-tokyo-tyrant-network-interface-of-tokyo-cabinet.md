@@ -1,7 +1,7 @@
 ---
 title: "Tokyo Tyrant: network interface of Tokyo Cabinet"
 date: 2009-03-02 14:32:35 +11:00
-url: http://tokyocabinet.sourceforge.net/tyrantdoc/
+link: http://tokyocabinet.sourceforge.net/tyrantdoc/
 tags: opensource http memcached server lua scalability database network tokyocabinet tokyotyrant replication
 layout: link
 ---

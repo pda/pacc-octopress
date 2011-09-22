@@ -1,7 +1,7 @@
 ---
 title: Milescript
 date: 2007-10-10 20:22:38 +10:00
-url: http://milescript.org/
+link: http://milescript.org/
 tags: milescript javascript language opensource
 layout: link
 ---

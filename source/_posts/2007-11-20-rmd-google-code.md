@@ -1,7 +1,7 @@
 ---
 title: rmd - Google Code
 date: 2007-11-20 13:06:11 +11:00
-url: http://code.google.com/p/rmd/
+link: http://code.google.com/p/rmd/
 tags: mozilla firefox thunderbird certificate extension
 layout: link
 ---
