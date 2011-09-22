@@ -1,9 +1,15 @@
 {% unless page.no_header %}
+{% if post.link %}{% assign link = post.link %}{% else %}{% assign link = page.link %}{% endif %}
+{% if post.title %}{% assign title = post.title %}{% else %}{% assign title = page.title %}{% endif %}
   <header>
-    {% if index %}
-      <h1 class="entry-title"><a href="{{ root_url }}{{ post.url }}">{{ post.title | titlecase }}</a></h1>
+    {% if link %}
+      <h1 class="entry-title"><a href="{{ link }}">{{ title | titlecase }}</a></h1>
     {% else %}
-      <h1 class="entry-title">{{ page.title | titlecase }}</h1>
+      {% if index %}
+        <h1 class="entry-title"><a href="{{ root_url }}{{ post.url }}">{{ title | titlecase }}</a></h1>
+      {% else %}
+        <h1 class="entry-title">{{ page.title | titlecase }}</h1>
+      {% endif %}
     {% endif %}
     {% unless page.meta == false %}
       <p class="meta">
