@@ -12,8 +12,8 @@ $main-bg: #ffffff !default;
 $page-bg: #ffffff !default;
 $article-border: #eeeeee !default;
 
-$header-bg: #ffffff !default;
-$header-border: lighten($header-bg, 15) !default;
+$header-bg: transparent !default;
+$header-border: transparent !default;
 $title-color: #000000 !default;
 $subtitle-color: $title-color !default;
 
@@ -67,6 +67,7 @@ a {
 }
 
 html {
+  background: $page-bg image-url('header.png') repeat-x right -15px;
 }
 body {
   > div {
