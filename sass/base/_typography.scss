@@ -10,8 +10,9 @@ $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
 .mono { font-family: $mono; }
 
 body > header h1 {
-  font-size: 2.2em;
-  @extend .heading;
+  font-size: 2em;
+  letter-spacing: 0.1em;
+  @extend .sans;
   font-weight: normal;
   line-height: 1.2em;
   margin-bottom: 0.6667em;
