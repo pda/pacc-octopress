@@ -22,7 +22,7 @@ $type-border: #ddd !default;
 
 /* Navigation */
 $nav-bg: #fff !default;
-$nav-color: darken($nav-bg, 38) !default;
+$nav-color: darken($nav-bg, 20) !default;
 $nav-color-hover: darken($nav-color, 25) !default;
 $nav-placeholder: desaturate(darken($nav-bg, 10), 15) !default;
 $nav-border: darken($nav-bg, 10) !default;
