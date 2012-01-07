@@ -4,9 +4,12 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "user@domain.com"
-document_root  = "~/website.com/"
-deploy_default = "rsync"
+#ssh_user       = "user@domain.com"
+#document_root  = "~/website.com/"
+#deploy_default = "rsync"
+
+deploy_default = "s3"
+s3_bucket = "paul.annesley.cc"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
@@ -321,4 +324,11 @@ desc "list tasks"
 task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
+end
+
+# See: http://www.jerome-bernard.com/blog/2011/08/20/quick-tip-for-easily-deploying-octopress-blog-on-amazon-s3/
+desc "Deploy website via s3cmd"
+task :s3 do
+  puts "## Deploying website via s3cmd"
+  ok_failed system("s3cmd sync --acl-public --reduced-redundancy public/* s3://#{s3_bucket}/")
 end
