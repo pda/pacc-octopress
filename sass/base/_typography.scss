@@ -10,9 +10,8 @@ $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
 .mono { font-family: $mono; }
 
 body > header h1 {
-  font-size: 2em;
-  letter-spacing: 0.1em;
-  @extend .sans;
+  font-size: 2.2em;
+  @extend .heading;
   font-weight: normal;
   line-height: 1.2em;
   margin-bottom: 0.6667em;
@@ -29,7 +28,7 @@ h1 {
 }
 
 @media only screen and (min-width: 992px) {
-  body { font-size: 1.1em; }
+  body { font-size: 1.15em; }
   h1 { font-size: 2.6em; line-height: 1.2em; }
 }
 
@@ -101,10 +100,10 @@ blockquote {
   $bq-margin: 1.2em;
   font-style: italic;
   position: relative;
-  font-size: 1em;
+  font-size: 1.2em;
   line-height: 1.5em;
   padding-left: 1em;
-  border-left: 4px solid rgba($text-color-light, .2);
+  border-left: 4px solid rgba($text-color-light, .5);
   cite {
     font-style: italic;
     a { color: $text-color-light !important; word-wrap: break-word; }

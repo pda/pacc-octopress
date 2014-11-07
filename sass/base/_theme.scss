@@ -1,38 +1,39 @@
+$noise-bg: image-url('noise.png') top left;
 $img-border: inline-image('dotted-border.png');
 
 // Main Link Colors
-$link-color: #080 !default;
+$link-color: lighten(#165b94, 3) !default;
 $link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
-$link-color-visited: $link-color !default;
+$link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
 $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
 // Main Section Colors
-$main-bg: #ffffff !default;
-$page-bg: #ffffff !default;
+$main-bg: #f8f8f8 !default;
+$page-bg: #252525 !default;
 $article-border: #eeeeee !default;
 
-$header-bg: transparent !default;
-$header-border: transparent !default;
-$title-color: #000000 !default;
-$subtitle-color: $title-color !default;
+$header-bg: #333 !default;
+$header-border: lighten($header-bg, 15) !default;
+$title-color: #f2f2f2 !default;
+$subtitle-color: #aaa !default;
 
-$text-color: #222222 !default;
-$text-color-light: #444444 !default;
+$text-color: #222 !default;
+$text-color-light: #aaa !default;
 $type-border: #ddd !default;
 
 /* Navigation */
-$nav-bg: #fff !default;
-$nav-color: darken($nav-bg, 20) !default;
+$nav-bg: #ccc !default;
+$nav-color: darken($nav-bg, 38) !default;
 $nav-color-hover: darken($nav-color, 25) !default;
 $nav-placeholder: desaturate(darken($nav-bg, 10), 15) !default;
 $nav-border: darken($nav-bg, 10) !default;
-$nav-border-top: $nav-bg !default;
-$nav-border-bottom: $nav-bg !default;
-$nav-border-left: $nav-bg !default;
-$nav-border-right: $nav-bg !default;
+$nav-border-top: lighten($nav-bg, 15) !default;
+$nav-border-bottom: darken($nav-bg, 25) !default;
+$nav-border-left: darken($nav-bg, 11) !default;
+$nav-border-right: lighten($nav-bg, 7) !default;
 
 /* Sidebar colors */
-$sidebar-bg: #ffffff !default;
+$sidebar-bg: #f2f2f2 !default;
 $sidebar-link-color: $link-color !default;
 $sidebar-link-color-hover: $link-color-hover !default;
 $sidebar-link-color-active: $link-color-active !default;
@@ -43,13 +44,15 @@ $sidebar-link-color-subdued: lighten($sidebar-color, 20) !default;
 $sidebar-link-color-subdued-hover: $sidebar-link-color-hover !default;
 $twitter-status-link: lighten($sidebar-link-color-subdued, 15) !default;
 
-$footer-bg: $nav-bg !default;
+$footer-color: #888 !default;
+$footer-bg: #ccc !default;
 $footer-color: darken($footer-bg, 38) !default;
 $footer-color-hover: darken($footer-color, 10) !default;
-$footer-border-top: $nav-bg !default;
-$footer-border-bottom: $nav-bg !default;
+$footer-border-top: lighten($footer-bg, 15) !default;
+$footer-border-bottom: darken($footer-bg, 15) !default;
 $footer-link-color: darken($footer-bg, 38) !default;
 $footer-link-color-hover: darken($footer-color, 25) !default;
+$page-border-bottom: darken($footer-bg, 5) !default;
 
 
 /* Core theme application */
@@ -61,17 +64,18 @@ aside.sidebar a {
   @include link-colors($sidebar-link-color, $hover: $sidebar-link-color-hover, $focus: $sidebar-link-color-hover, $active: $sidebar-link-color-active);
 }
 a {
-  @include transition(color .2s);
+  @include transition(color .3s);
 }
 
 html {
-  background: $page-bg image-url('header.png') repeat-x right -15px;
+  background: $page-bg image-url('line-tile.png') top left;
 }
 body {
   > div {
-    background: $sidebar-bg;
+    background: $sidebar-bg $noise-bg;
+    border-bottom: 1px solid $page-border-bottom;
     > div {
-      background: $main-bg;
+      background: $main-bg $noise-bg;
       border-right: 1px solid $sidebar-border;
     }
   }
